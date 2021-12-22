@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "-i C:\\Users\\joego\\source\\repos\\FileConverter\\FileConverter.Console\\Input\\Example.xml -o C:\\Users\\joego\\source\\repos\\FileConverter\\FileConverter.Console\\Output\\Example.csv"
+    }
+  }
+}
